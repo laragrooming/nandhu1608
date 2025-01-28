@@ -1,0 +1,2 @@
+http://(cloud public ip address):(port num)/(api url) 
+security process-->dashboard-->instances running-->instances id-->security-->security groups-->click on link-->inbound rules-->edit inbound rules-->add rule-->custom tcp-->select all traffic-->custom(select anywhere ipv4)-->save rules
